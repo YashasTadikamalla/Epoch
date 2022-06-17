@@ -15,4 +15,6 @@ To clear the screen, you have to hover on "Clear All".
 
 The most interesting feature of this is that, you can choose your background. It can either be a live background, or a simple black canvas.
 
+![Demo Image](https://github.com/YashasTadikamalla/Epoch/blob/main/Air_Draw/Demo.png)
+
 <strong>How does it work?</strong>
