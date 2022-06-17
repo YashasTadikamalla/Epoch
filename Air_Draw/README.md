@@ -1,4 +1,4 @@
-<strong>Air_Draw</strong> is a simple, yet cool tool that takes in feed from your webcam, and enables you to draw in the air with your index finger, while allowing you to choose various features, like colours, thickness, etc as if you were drawing with your mouse/cursor in Ms Paint.
+<strong>Air_Draw</strong> is a simple, yet cool tool that takes in feed from your webcam, and enables you to draw on air with your index finger, while allowing you to choose various features, like colours, thickness, etc.
 
 <strong>How to use it?</strong>
 
