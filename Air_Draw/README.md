@@ -1,8 +1,9 @@
 Air_Draw is a simple, yet cool tool that takes in feed from your webcam, and enables you to draw in the air with your index finger, while allowing you to choose various features, like colours, thickness, etc as if you were drawing with your mouse/cursor in Ms Paint.
 
-The key idea of the implementation is to detect the tips of index and middle finger of a hand, and use that data to allow one to choose or draw.
+*How to use it?*
+The key idea is to detect the tips of index and middle finger of a hand, and use that data to allow one switch to choose or draw mode.
 
-You are in drawing mode when only your index finger is up. It would draw as if you index finger tip was the paint brush. The circular cursor colour will indicate the brush colour currently selected.
+You are in drawing mode when only your index finger is up. Your index finger's tip would act like the paint brush. The circular cursor colour will indicate the brush colour currently selected.
 
 When you want to select a particular feature, you have to open both your index and middle fingers, and join them. Then, you have to hover the circular cursor on the desired feature.
 
