@@ -1,7 +1,8 @@
 <strong>Air_Draw</strong> is a simple, yet cool tool that takes in feed from your webcam, and enables you to draw on air with your index finger, while allowing you to choose various features, like colours, thickness, etc.
 
-<strong>How to use it?</strong>
+I got to learn and work with Object Oriented programming, OpenCV and MediaPipe frameworks as a part of this project.
 
+<strong>How to use Air Draw?</strong>
 The key idea is to detect the tips of index and middle finger of a hand, and use that data to allow one switch to choose or draw mode.
 
 You are in drawing mode when only your index finger is up. Your index finger's tip would act like the paint brush. The circular cursor colour will indicate the brush colour currently selected.
@@ -17,4 +18,4 @@ The most interesting feature of this is that, you can choose your background. It
 
 ![Demo Image](https://github.com/YashasTadikamalla/Epoch/blob/main/Air_Draw/Demo.png)
 
-<strong>How does it work?</strong>
+<strong>How does Air Draw work?</strong>
