@@ -3,6 +3,7 @@
 I got to learn and work with Object Oriented programming, OpenCV and MediaPipe frameworks as a part of this project.
 
 <strong>How to use Air Draw?</strong>
+
 The key idea is to detect the tips of index and middle finger of a hand, and use that data to allow one switch to choose or draw mode.
 
 You are in drawing mode when only your index finger is up. Your index finger's tip would act like the paint brush. The circular cursor colour will indicate the brush colour currently selected.
