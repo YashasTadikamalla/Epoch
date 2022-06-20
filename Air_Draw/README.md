@@ -21,6 +21,12 @@ The most interesting feature of this is that, you can choose your background. It
 
 <strong>How does Air Draw work?</strong>
 
+Hand Track Module has the code to identify hands in a frame, detect and return information related to landmark positions, status of fingers, and marking them if required.
 
+Air Draw Module imports the Hand Track module, modifies the output frame accordingly. It has code to draw curves, switch between drawing and selection mode, erase, and save the drawings.
+
+draw.py is the final code snippet which can be run, once this repo is pulled into your local machine, to get started with drawing!
+
+![Saved Image](https://github.com/YashasTadikamalla/Epoch/blob/main/Air_Draw/Saved.jpg)
 
 This project is built upon [link](https://youtu.be/ZiwZaAVbXQo)
