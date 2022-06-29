@@ -29,4 +29,4 @@ draw.py is the final code snippet which can be run, once this repo is pulled int
 
 ![Saved Image](https://github.com/YashasTadikamalla/Epoch/blob/main/Air_Draw/Saved.jpg)
 
-This project is built upon [link](https://youtu.be/ZiwZaAVbXQo)
+This project is inspired from [link](https://youtu.be/ZiwZaAVbXQo)
